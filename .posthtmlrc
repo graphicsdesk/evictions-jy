@@ -7,12 +7,278 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Rushing through the doors of P.S. 513 Castle Bridge School, Yamira looked at her phone: it was 9:05 a.m., and she was late to drop her two daughters off at school. The security guard recognized her and let her daughters into the building, and the two girls ran inside without looking back."
+          },
+          {
+            "type": "text",
+            "value": "For nearly eight hours each day, the school is their time away from the hotel room they share with their parents in Times Square."
+          },
+          {
+            "type": "text",
+            "value": "After dropping them off, Yamira said hello to some of the parents standing in the courtyard; in a mix of Spanish and English, the parents asked about the kids and joked with one another. Yamira told Spectator that the parents are her friends—part of a larger school community that has supported her and her two daughters since they first arrived at Castle Bridge in early May, after a long journey from Venezuela."
+          },
+          {
+            "type": "text",
+            "value": "“They’ve taken us in as a family,” Yamira said of the Castle Bridge community. “I feel at home here.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/YRHWOM4A5NAGBGD6WMGCL3OG5E.jpg",
+              "caption": "With focused programs and adequate resources, many recently-arrived children thrive at schools with dual language programs.",
+              "credit": "Ryan Murphy / Photo Trainee"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Yamira and her family arrived in New York City in early April and were placed in a hotel near Times Square that had been repurposed as a shelter. Her daughters enrolled at Castle Bridge, a dual-language school at 560 W. 168 St. The 30-minute commute to school is manageable, Yamira said, so long as their family stayed in the same hotel."
+          },
+          {
+            "type": "text",
+            "value": "When Yamira and her family moved in, shelter officials mentioned that the housing was temporary. In accordance with Mayor Eric Adams’ policy, after 60 days, Yamira and her family might have to reapply for shelter or find housing elsewhere. But after the first few months, those eviction notices never came. The city had not yet received authorization from the New York State Office of Temporary and Disability Assistance to enact the evictions in centers run by the Department of Homeless Services."
+          },
+          {
+            "type": "text",
+            "value": "Since receiving state approval in late August, however, the Department of Homeless Services has begun to send out alerts of the coming notices—and the notices themselves. On a sheet of paper slipped under shelter room doors, a short paragraph is written in Spanish:"
+          },
+          {
+            "type": "text",
+            "value": "“We inform you that your family will receive a notice called a 60-Day Notice,” an alert delivered to one family in late August reads, translated by Spectator. “This notice is to inform you that you may have to leave this shelter in 60 days to make room for the recently arrived immigrant families. These notices will be distributed continuously starting at the end of the summer.”"
+          },
+          {
+            "type": "text",
+            "value": "Yamira, who spoke to Spectator on the condition of partial anonymity citing ongoing immigration proceedings, and her family are one of the roughly 30,000 families staying in Department of Homeless Services shelters set to be evicted under the Adams administration’s 60-day policy. Once the notices come, the families will have to return to Roosevelt Hotel—the city’s “migrant arrival center”—and ask for a new shelter placement, which could be anywhere in the city, in any of the five boroughs."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "dual_language_schools_timeline.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "‘Don’t worry, we’ll give you everything you need here’"
+          },
+          {
+            "type": "text",
+            "value": "Bilingual schools in New York City like Castle Bridge and P.S. 145 The Bloomingdale School, a dual-language school on 150 W. 105 St., have been uniquely equipped to handle newly-arrived families. Not only do they often provide dual-language education in the families’ first language, but they also become the means through which families have connected with necessary services such as meals, clothes, school supplies, a kitchen space, and crucial social and emotional support."
+          },
+          {
+            "type": "text",
+            "value": "At Castle Bridge, for example, children learn in classrooms with two teachers who both speak Spanish and English, and at least one is special-education certified. The average class size is around 10 students, which is below the city’s average of around 23 students for kindergarten to fifth grade schools."
+          },
+          {
+            "type": "text",
+            "value": "“We’ve got school social workers. Socio-emotional learning is a huge part of the curriculum,” Lily Burd, co-president of the PTA at Castle Bridge, said. “As a parent of kids who face different challenges related to instability in their family, school has been the rock for us.”"
+          },
+          {
+            "type": "text",
+            "value": "With focused programs and adequate resources, many recently-arrived children thrive at schools with dual language programs. That has been the case for Yamira and her family, who said that her daughters are doing better mentally and emotionally than they have in years."
+          },
+          {
+            "type": "text",
+            "value": "“Don’t worry, we’ll give you everything you need here,” Yamira said, recalling what the Castle Bridge administrator told her the day she showed up to the school. “Clothes for the girls, even for me. Bags, everything, all the school supplies.”"
+          },
+          {
+            "type": "text",
+            "value": "Yamira said that in her home country of Venezuela, going to school was almost impossible, as the lack of resources meant that schools were continuously closed. At Castle Bridge, her daughters have been able to find a stability that they haven’t found elsewhere, and Yamira said she’s noticed how her daughters have grown to love their school."
+          },
+          {
+            "type": "text",
+            "value": "“It’s been the best thing that has happened to them in their whole lives,” Yamira said. “The older one was shy in her country, now she’s social.”"
+          },
+          {
+            "type": "text",
+            "value": "Gina Cirrito, co-founder of Mañana Otro Día, a community-based organization assisting families seeking asylum, said a child who arrived in the city nearly two years ago recently told her that she no longer wants to be enrolled in dual-language classes because she “wants full English.”"
+          },
+          {
+            "type": "text",
+            "value": "“That’s so awesome that this girl who crossed mountains and gaps in countries is just thriving because she’s had the consistency of P.S. 87,” Cirrito said."
+          },
+          {
+            "type": "text",
+            "value": "In 2022, as the number of new immigrants in the city increased, Adams created a new system for immigrant families seeking shelter, where families who had recently arrived would have to apply through a separate system, not the Department of Homeless Services. When families arrive at Roosevelt Hotel, they are randomly placed in shelters with open beds."
+          },
+          {
+            "type": "text",
+            "value": "However, families placed in the department’s shelters have not yet been subjected to the 60-day policy, like those in separate shelters. When Diana, who spoke to Spectator on the condition of partial anonymity citing ongoing immigration proceedings, arrived from Peru in January, the city placed her and her family in a non-Department of Homeless Services shelter—meaning that they have since then been evicted and relocated multiple times."
+          },
+          {
+            "type": "text",
+            "value": "Luckily, Diana said, her family has continuously been relocated to hotels in the Midtown area, which is still about a 30-minute commute to her children’s school. Castle Bridge makes the commute worth it, she said. Even if she’s relocated, she said she will continue to try to bring her kids to the same school because it’s what they’ve gotten used to."
+          },
+          {
+            "type": "text",
+            "value": "“I make every effort to bring them to school everyday,” Diana said. “Because I like the school.”"
+          },
+          {
+            "type": "text",
+            "value": "With three kids currently enrolled at The Bloomingdale School and another on the way, Rosysbelth, who arrived in New York City in May 2022 and who spoke to Spectator on the condition of partial anonymity citing ongoing immigration proceedings, said that the school has been vital to her family’s well-being in the city."
+          },
+          {
+            "type": "text",
+            "value": "“I tell them ‘take advantage of it’ because the school offers a lot of opportunities,” Rosysbelth said, referring to her kids."
+          },
+          {
+            "type": "text",
+            "value": "Rosysbelth has been in the same hotel for the past two years, but recently received word that she would soon receive an eviction notice. Although Rosysbelth is in her third trimester of pregnancy which, under Adams’ policy, exempts her from having to relocate, she still received a notice. Officials at The Bloomingdale School are the ones who are helping her ensure she and her family can stay in the hotel until after the baby is born."
+          },
+          {
+            "type": "text",
+            "value": "Rosysbelth said that even if she is not moving right now, the idea of moving in the future is difficult to wrap her head around."
+          },
+          {
+            "type": "text",
+            "value": "“That’s the problem—if they send you to Brooklyn or Queens, it gets more complicated. Here, they go into school at 7:45 a.m. to eat breakfast, so what time do I have to leave the shelter? Because it’s not like my three kids move fast. I have to wake up at 7 a.m. to come just from 50th Street. That means waking up at 6 a.m. to get the three of them ready.”"
+          },
+          {
+            "type": "text",
+            "value": "Many families have not yet received an eviction notice, but they fear that it will come any day now."
+          },
+          {
+            "type": "text",
+            "value": "Because of the role Castle Bridge has played in her and her daughters’ lives, Yamira said that she hopes to be relocated to a nearby shelter. But she also said that, regardless of their relocation, she wants to keep her daughters at Castle Bridge."
+          },
+          {
+            "type": "text",
+            "value": "“The idea is to stay here, without a doubt to stay here,” Yamira said. “Because of the stability that it has provided my daughters—and not just my daughters but me too, because I feel like it’s a family here.”"
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "50%",
+              "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/MLBDHGWMR5FRZOEVD7H2RCED6A.jpg",
+              "caption": "Rosysbelth, who arrived in New York City in May 2022, said that P.S. 145 has been vital to her family’s well-being in the city.",
+              "credit": "Frances Cohen / Staff Photographer"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Packing up, reapplying for shelter, and waiting on a new commute"
+          },
+          {
+            "type": "text",
+            "value": "New York City currently has 226 Spanish dual-language schools throughout the five boroughs, according to the New York City Department of Education 2023-24 Bilingual Program List. Of those, 67 are in Manhattan and 46 of them are K-8 or elementary schools."
+          },
+          {
+            "type": "text",
+            "value": "When families reapply for a shelter—like Yamira and Diana will soon—there is no guarantee that, if they decide to switch schools closer to their new placement, they will be able to enroll their students in a bilingual school."
+          },
+          {
+            "type": "text",
+            "value": "Juan Abreu, the community coordinator at The Bloomingdale School, said that so far, 15 families at the school have received eviction notices, with more expected as the school year continues. While Abreu said the school enrolled around five recently-arrived children a day in 2022, he said the Bloomingdale School now sees a steady enrollment increase of around three to four children a day."
+          },
+          {
+            "type": "text",
+            "value": "However, many of the families who initially arrived in 2022 have left the school due to constant moving and long commutes."
+          },
+          {
+            "type": "text",
+            "value": "“I have parents that are coming as far as Coney Island, Far Rockaway. They been here for two years, but they have decided that, [since] one of them is going to graduate this year, so she’s just like, ‘she’s been here for those two years, and she just needs one more year to graduate, I will, you know, do the effort of getting her to school.’” Abreu said of a mother at P.S. 145. “I salute to that, and I honor that, and I respect that.”"
+          },
+          {
+            "type": "text",
+            "value": "Since June, three students have already left Castle Bridge as a result of the eviction notices. While it is currently unclear how many families at the school are set to be evicted from their shelters in the coming year, there are approximately 15 recently arrived families at Castle Bridge. Spectator could not confirm how many were staying in the city shelter system."
+          },
+          {
+            "type": "text",
+            "value": "Diana said that her two months are ending soon, and that she’ll have to register for a shelter all over again."
+          },
+          {
+            "type": "text",
+            "value": "“When my two months are over, I’ll have to reapply and that’s desperation because you have to wait at least a day,” Diana said. If they’re not relocated within the day, they can sleep in drop-in sites, she added."
+          },
+          {
+            "type": "text",
+            "value": "There’s also uncertainty about where she’ll be placed, and, like Yamira, about whether or not it’ll be close to the school that has done so much for her—including teaching her daughter to write."
+          },
+          {
+            "type": "text",
+            "value": "“It worries me if they send us [to a shelter] far away, because I don’t want to change her to a different school,” Diana said. “That’ll be really hard for her.”"
+          },
+          {
+            "type": "text",
+            "value": "Naveed Hassan, SEAS ’00, ’02, Community Education Council representative on the Panel for Education Policy and parent at The Bloomingdale School, said he has already seen the effect of constant relocation to unknown shelter locations on recently-arrived children’s education."
+          },
+          {
+            "type": "text",
+            "value": "“They don’t know, the families of those kids don’t know how close it’s going to be to the school they’re in,” Hassan said. “I’ve seen lots of cases where just kids disappear, in the sense that they just don’t come back to school.”"
+          },
+          {
+            "type": "text",
+            "value": "Parents and advocates say that often, when the families’ commutes to school become too long and overwhelming, children eventually stop showing up."
+          },
+          {
+            "type": "text",
+            "value": "“Over an hour trip, multiple children at rush hour, taking multiple train transfers,” Burd said, describing the challenges that many families face on their commute. “I’ve never been on a subway where they make announcements in Spanish,” she added."
+          },
+          {
+            "type": "text",
+            "value": "Yamira said that she and her husband would like to leave the shelter system and has looked for places to rent, but that it is simply too expensive. Even if they were able to afford rent, there are many associated costs that would make it too expensive, she said."
+          },
+          {
+            "type": "text",
+            "value": "Diana said that her family has also looked for alternative housing, but without the ability to work, leaving the shelter system is hard. Rosysbelth said she has wanted to leave the shelter for a long time. Families are not allowed to cook in their rooms, making the cost of food extremely expensive, she said—and having three kids in one room is very hard, but renting an apartment for five people is not financially feasible."
+          },
+          {
+            "type": "text",
+            "value": "“We’ve thought of every scenario, and we don’t want to take them out of the school,” Yamira said. “There’s so many schools, but here they feel good. It has brought them security and stability, which is what we wanted for them.”"
+          },
+          {
+            "type": "text",
+            "value": "‘Stability abruptly taken away’"
+          },
+          {
+            "type": "text",
+            "value": "On Sept. 4, the day before school started in September, New York City Comptroller Brad Lander, who conducted a five-month long investigation into the implementation of the 60-day shelter limit policy, and City Council members from across the city held a rally at the Audubon Playground, across the street from Castle Bridge, to end shelter evictions and ensure stable housing for students."
+          },
+          {
+            "type": "text",
+            "value": "At the rally, families, teachers, elected officials, and school administrators gathered together to protest the implementation of Adams’ policy. Speakers called for the policy’s reversal and said that the policy would force families to endure long commutes and have detrimental effects on educational outcomes."
+          },
+          {
+            "type": "text",
+            "value": "“Picture that just 60 days into the school year, all of that stability is abruptly taken away. Your family receives an eviction notice from the shelter, forcing you to either switch schools or endure a long commute to stay in a school where you’ve already made academic progress and built a community. This transition likely causes you to miss school and significant disruption,” District 39 council member Shahana Hanif said in her speech at the rally. “Unfortunately, this situation can repeat itself up to five times in a single school year under this mayors’ 60-day rule.”"
+          },
+          {
+            "type": "text",
+            "value": "Since the rally, little has changed. Families are still set to be evicted under the 60-day rule. But for Yamira and Diana, they will make every effort to return to the schools that have given them the stability in their time in New York."
+          },
+          {
+            "type": "text",
+            "value": "“That’s what’s kept us here, in those shelters, for the four months we’ve been here— the stability that Castle Bridge has brought to my daughters,” Yamira said. “The security that it’s brought me to see them—how they’ve changed and how they’ve evolved.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>City News Editor Manuela Silva can be contacted at </i><a href=\"mailto:manuela.silva@columbiaspectator.com\"><i>manuela.silva@columbiaspectator.com</i></a><i>.  Follow her on X </i><a href=\"https://x.com/manuelas957\"><i>@manuelas957</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy News Editor Tsehai Alfred can be contacted at </i><a href=\"mailto:tsehai.alfred@columbiaspectator.com\"><i>tsehai.alfred@columbiaspectator.com</i></a><i>.  Follow her on X </i><a href=\"https://twitter.com/TsehaiAlfred\"><i>@TsehaiAlfred</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Deputy Editor Jenny Ye can be contacted at </i><a href=\"mailto:jenny.ye@columbiaspectator.com\"><i>jenny.ye@columbiaspectator.com</i></a><i>. </i><i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Dual languages schools provide recently-arrived families with unique stability. Looming eviction notices threaten to take it away.",
+        "date": "October 23, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/manuela-silva/\">Manuela Silva</a> and <a href=\"https://www.columbiaspectator.com/contributors/tsehai-alfred/\">Tsehai Alfred</a>. Graphic by <a href=\"https://www.columbiaspectator.com/contributors/jenny-ye/\">Jenny Ye</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/7YKUUDERGFHKDLEDZYQ7SYWEXQ.jpg",
+        "cover_caption": "Ryan Murphy / Photo Trainee",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1-kkHobjmTigCmTozg8Ej_RKmLdowAcvFISZk7M8pJBQ/edit?tab=t.0"
       }
     }
   }
