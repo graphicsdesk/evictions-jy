@@ -61,7 +61,7 @@
           },
           {
             "type": "text",
-            "value": "‘Don’t worry, we’ll give you everything you need here’"
+            "value": "<b>‘Don’t worry, we’ll give you everything you need here’</b>"
           },
           {
             "type": "text",
@@ -158,7 +158,7 @@
           },
           {
             "type": "text",
-            "value": "Packing up, reapplying for shelter, and waiting on a new commute"
+            "value": "<b>Packing up, reapplying for shelter, and waiting on a new commute  </b>"
           },
           {
             "type": "text",
@@ -230,7 +230,7 @@
           },
           {
             "type": "text",
-            "value": "‘Stability abruptly taken away’"
+            "value": "<b>‘Stability abruptly taken away’</b>"
           },
           {
             "type": "text",
